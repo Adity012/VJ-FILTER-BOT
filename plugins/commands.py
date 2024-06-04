@@ -14,7 +14,6 @@ import asyncio
 import time
 import datetime
 from Script import script
-from random import choice
 from pyrogram import Client, filters, enums
 from pyrogram.errors import ChatAdminRequired, FloodWait
 from pyrogram.types import *
